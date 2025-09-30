@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ayhamalnammourah-404b01238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayhamalnammourah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayhamalnammourah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayhamalnammourah" height="30" width="40" /></a>
 <a href="https://instagram.com/ayh_5h4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayh_5h4" height="30" width="40" /></a>
 <a href="https://www.facebook.com/AyhamAlnammourah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AyhamAlnammourah" height="30" width="40" /></a>
 <a href="https://twitter.com/Ayham_Nammourah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ayham_Nammourah" height="30" width="40" /></a>
